@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/yourusername/ConsoleApp1.git'
+                git 'https://github.com/RadheWaghchaure/ConsoleApp1'
             }
         }
 
