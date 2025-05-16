@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         BUILD_DIR = 'C:\\Users\\radheshamw\\source\\repos\\ConsoleApp1\\src\\bin\\Release'
-        TARGET_DIR = 'E:\\Build Output\\radheshamw'
-        RELEASE_DIR = 'E:\\Release Data\\radheshamw'
+        TARGET_DIR = 'D:\\Build Output\\radheshamw'
+        RELEASE_DIR = 'D:\\Release Data\\radheshamw'
         EMAIL_RECIPIENTS = 'waghchaureradhesham23@gmail.com'
     }
 
